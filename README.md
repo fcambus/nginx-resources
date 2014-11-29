@@ -16,6 +16,17 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Advanced Topics In Nginx Module Development](http://www.evanmiller.org/nginx-modules-guide-advanced.html)
 - [Developing Nginx Modules](http://www.airpair.com/nginx/extending-nginx-tutorial)
 
+## Nginx Conference 2014
+
+- [NGINX Conference 2014](http://nginx.com/nginxconf/)
+- [Making HTTPS Fast(er): Ilya Grigorik @ nginx.conf 2014](https://www.youtube.com/watch?v=iHxD-G0YjiU)
+- [The Latest and Greatest from ngx_lua: New Features & Tools: Yichun Zhang](https://www.youtube.com/watch?v=Z0fQabvVhIk)
+- [Scaleable NGINX Configuration: Igor Sysoev](https://www.youtube.com/watch?v=YWRYbLKsS0I)
+- [Making Sense of SDN and NFV for NGINX: Christian Buerger](https://www.youtube.com/watch?v=-vQpalH8VlE)
+- [NGINX Plus Serving Breaking News for InkaBinka: Chris Brahmer ](https://www.youtube.com/watch?v=wxUUEvRLpH8)
+- [The LAMP Just Died, Follow the Light: NGINX and PHP-FPM: Bernard Rosset](https://www.youtube.com/watch?v=WR1aZcA1UXs)
+- [Building a low-latency WAF inside NGINX using Lua: John Graham-Cumming](https://www.youtube.com/watch?v=nlt4XKhucS4)
+
 ## Additional Information
 
 This resource collection is maintained by Frederic Cambus
