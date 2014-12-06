@@ -33,6 +33,14 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [The LAMP Just Died, Follow the Light: NGINX and PHP-FPM: Bernard Rosset](https://www.youtube.com/watch?v=WR1aZcA1UXs)
 - [Building a low-latency WAF inside NGINX using Lua: John Graham-Cumming](https://www.youtube.com/watch?v=nlt4XKhucS4)
 
+## OpenResty
+
+- [OpenResty  a fast web app server by extending nginx ](http://openresty.org/)
+- [Lapis - A web framework for Lua or MoonScript powered by OpenResty](http://leafo.net/lapis/)
+- [Nginx image processing server with OpenResty and Lua](http://leafo.net/posts/creating_an_image_server.html)
+- [A small router for Openresty](https://docs.apitools.com/blog/2014/04/24/a-small-router-for-openresty.html)
+- [Building an OpenResty events server](https://github.com/cagerton/dropthat/)
+
 ## Tengine
 
 - [Tengine Web Server ](http://tengine.taobao.org)
