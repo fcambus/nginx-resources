@@ -28,6 +28,11 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [The LAMP Just Died, Follow the Light: NGINX and PHP-FPM: Bernard Rosset](https://www.youtube.com/watch?v=WR1aZcA1UXs)
 - [Building a low-latency WAF inside NGINX using Lua: John Graham-Cumming](https://www.youtube.com/watch?v=nlt4XKhucS4)
 
+## Tengine
+
+- [Tengine Web Server ](http://tengine.taobao.org)
+- [Difference between OpenResty and Tengine](https://github.com/openresty/ngx_openresty/issues/54)
+
 ## Additional Information
 
 This resource collection is maintained by Frederic Cambus
