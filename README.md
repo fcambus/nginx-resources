@@ -33,6 +33,13 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [The LAMP Just Died, Follow the Light: NGINX and PHP-FPM: Bernard Rosset](https://www.youtube.com/watch?v=WR1aZcA1UXs)
 - [Building a low-latency WAF inside NGINX using Lua: John Graham-Cumming](https://www.youtube.com/watch?v=nlt4XKhucS4)
 
+## Nginx + Lua
+
+- [Nginx, Lua, and beyond](http://agentzh.org/misc/slides/nginx-lua-and-beyond.pdf)
+- [Pushing Nginx to its limit with Lua](http://blog.cloudflare.com/pushing-nginx-to-its-limit-with-lua/)
+- [Scripting Nginx with Lua](http://www.londonlua.org/scripting_nginx_with_lua/)
+- [Augmenting APIs with Nginx and Lua](http://tech.3scale.net/2013/01/09/augment-your-api-without-touching-it/)
+
 ## OpenResty
 
 - [OpenResty  a fast web app server by extending nginx ](http://openresty.org/)
