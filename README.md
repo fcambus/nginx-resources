@@ -9,6 +9,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [The Architecture of Open Source Applications (Volume 2): nginx](http://aosabook.org/en/nginx.html)
 - [Nginx Guts - Shedding light on Nginx internals](http://www.nginxguts.com/)
 - [Nginx discovery journey](http://www.nginx-discovery.com/)
+- [Nginx Internals](http://www.slideshare.net/joshzhu/nginx-internals)
 
 ## Modules development
 
