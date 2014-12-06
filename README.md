@@ -17,6 +17,11 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Advanced Topics In Nginx Module Development](http://www.evanmiller.org/nginx-modules-guide-advanced.html)
 - [Developing Nginx Modules](http://www.airpair.com/nginx/extending-nginx-tutorial)
 
+## SSL / TLS
+
+- [Optimizing NGINX TLS Time To First Byte (TTTFB)](https://www.igvita.com/2013/12/16/optimizing-nginx-tls-time-to-first-byte/)
+- [SSL session caching in Nginx](http://www.hezmatt.org/~mpalmer/blog/2011/06/28/ssl-session-caching-in-nginx.html)
+
 ## Nginx Conference 2014
 
 - [NGINX Conference 2014](http://nginx.com/nginxconf/)
