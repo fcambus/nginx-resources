@@ -33,6 +33,12 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [The LAMP Just Died, Follow the Light: NGINX and PHP-FPM: Bernard Rosset](https://www.youtube.com/watch?v=WR1aZcA1UXs)
 - [Building a low-latency WAF inside NGINX using Lua: John Graham-Cumming](https://www.youtube.com/watch?v=nlt4XKhucS4)
 
+## Nginx and APIs
+
+- [Telize is a JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua](http://www.telize.com)
+- [GIN JSON-API framework](http://gin.io/)
+- [Outbound API rate limits: the nginx way](http://codetunes.com/2011/07/26/outbound-api-rate-limits-the-nginx-way)
+
 ## Nginx + Lua
 
 - [Nginx, Lua, and beyond](http://agentzh.org/misc/slides/nginx-lua-and-beyond.pdf)
