@@ -39,6 +39,13 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [GIN JSON-API framework](http://gin.io/)
 - [Outbound API rate limits: the nginx way](http://codetunes.com/2011/07/26/outbound-api-rate-limits-the-nginx-way)
 
+## Nginx Hacks
+
+- [Nginx JSON hacks](http://www.gabrielweinberg.com/blog/2011/07/nginx-json-hacks.html)
+- [Using Environment Variables In Nginx.conf](https://docs.apitools.com/blog/2014/07/02/using-environment-variables-in-nginx-conf.html)
+- [JSONP Proxy - Get JSONP from APIs not supporting it natively](https://github.com/fcambus/jsonp-proxy)
+- [Log rotation directly within Nginx configuration file](http://www.cambus.net/log-rotation-directly-within-nginx-configuration-file/)
+
 ## Nginx + Lua
 
 - [Nginx, Lua, and beyond](http://agentzh.org/misc/slides/nginx-lua-and-beyond.pdf)
