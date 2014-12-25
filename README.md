@@ -33,6 +33,11 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [The LAMP Just Died, Follow the Light: NGINX and PHP-FPM: Bernard Rosset](https://www.youtube.com/watch?v=WR1aZcA1UXs)
 - [Building a low-latency WAF inside NGINX using Lua: John Graham-Cumming](https://www.youtube.com/watch?v=nlt4XKhucS4)
 
+## Nginx interviews
+
+- [Interview with creator of NGINX Igor Sysoev](http://www.webhostingskills.com/open_source/articles/interview_with_creator_of_nginx_igor_sysoev/)
+- [Interview with Igor Sysoev, author of Apache's competitor NGINX](http://www.freesoftwaremagazine.com/articles/interview_igor_sysoev_author_apaches_competitor_nginx)
+
 ## Nginx and APIs
 
 - [Telize is a JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua](http://www.telize.com)
