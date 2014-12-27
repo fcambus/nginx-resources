@@ -17,6 +17,20 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx)
 - [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/Umkus/nginx-boilerplate)
 
+## Nginx tutorials
+
+- [NGINX and NGINX Plus Admin Guide](http://nginx.com/resources/admin-guide/)
+- [agentzh's Nginx Tutorials](http://openresty.org/download/agentzh-nginx-tutorials-en.html) ([Source](https://github.com/openresty/nginx-tutorials))
+- [Introduction to nginx.conf scripting](http://agentzh.org/misc/slides/nginx-conf-scripting/nginx-conf-scripting.html)
+- [Load Balancing with NGINX and NGINX Plus](http://nginx.com/blog/load-balancing-with-nginx-plus/) ([Part 2](http://nginx.com/blog/load-balancing-with-nginx-plus-part2/))
+- [Optimizing Nginx for High Traffic Loads](http://blog.martinfjordvald.com/2011/04/optimizing-nginx-for-high-traffic-loads/)
+- [Nginx Load Balancing Basics](http://blog.jsdelivr.com/2013/01/nginx-load-balancing-basics.html)
+- [NGINX as a WebSockets Proxy](http://nginx.com/blog/websocket-nginx/)
+- [HTTP Keepalive Connections and Web Performance ](http://nginx.com/blog/http-keepalives-and-web-performance/)
+- [CORS on Nginx](http://enable-cors.org/server_nginx.html)
+- [Using NGINX As An Intelligent Proxy & Web Server](https://docs.apitools.com/blog/2014/06/10/using-nginx-as-an-intelligent-proxy-web-server.html)
+- [Serving precompressed content with Nginx and Zopfli](http://www.cambus.net/serving-precompressed-content-with-nginx-and-zopfli/)
+
 ## Nginx architecture
 
 - [The Architecture of Open Source Applications (Volume 2): nginx](http://aosabook.org/en/nginx.html)
