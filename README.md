@@ -63,16 +63,11 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Configuring Apache, Nginx, and OpenSSL for Forward Secrecy](http://blog.ivanristic.com/2013/08/configuring-apache-nginx-and-openssl-for-forward-secrecy.html)
 - [Getting an A+ on Qualy's SSL Labs Tester](https://sethvargo.com/getting-an-a-plus-on-qualys-ssl-labs-tester/)
 
-## Nginx Conference 2014
+## Nginx Conferences and Summits
 
 - [NGINX Conference 2014](http://nginx.com/nginxconf/)
-- [Making HTTPS Fast(er): Ilya Grigorik @ nginx.conf 2014](https://www.youtube.com/watch?v=iHxD-G0YjiU)
-- [The Latest and Greatest from ngx_lua: New Features & Tools: Yichun Zhang](https://www.youtube.com/watch?v=Z0fQabvVhIk)
-- [Scaleable NGINX Configuration: Igor Sysoev](https://www.youtube.com/watch?v=YWRYbLKsS0I)
-- [Making Sense of SDN and NFV for NGINX: Christian Buerger](https://www.youtube.com/watch?v=-vQpalH8VlE)
-- [NGINX Plus Serving Breaking News for InkaBinka: Chris Brahmer ](https://www.youtube.com/watch?v=wxUUEvRLpH8)
-- [The LAMP Just Died, Follow the Light: NGINX and PHP-FPM: Bernard Rosset](https://www.youtube.com/watch?v=WR1aZcA1UXs)
-- [Building a low-latency WAF inside NGINX using Lua: John Graham-Cumming](https://www.youtube.com/watch?v=nlt4XKhucS4)
+- [NGINX Conference 2014 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXewvc6tjIGGFZ6DBKHEld3k)
+- [NGINX User Summit 2014 - Lightning talks](https://www.youtube.com/playlist?list=PLGz_X9w9raXfTnRnI6Xl0LMhAKoTVVZv8)
 
 ## Nginx and APIs
 
