@@ -4,6 +4,19 @@ A growing collection of resources covering Nginx, Nginx + Lua, OpenResty and Ten
 
 This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates and/or suggestions, follow me on Twitter : [@fcambus](https://twitter.com/fcambus)
 
+## Nginx Configuration 
+
+- [Beginner's Guide](http://nginx.org/en/docs/beginners_guide.html)
+- [Alphabetical index of variables](http://nginx.org/en/docs/varindex.html)
+- [Nginx Pitfalls](http://wiki.nginx.org/Pitfalls)
+- [Nginx Secure Web Server with HTTP, HTTPS SSL and Reverse Proxy Examples](https://calomel.org/nginx.html)
+- [Useful Rewrites for Nginx ](https://blog.engineyard.com/2011/useful-rewrites-for-nginx/)
+- [Nginx Configuration Primer](http://blog.martinfjordvald.com/2010/07/nginx-primer/)
+- [Nginx Primer 2: From Apache to Nginx](http://blog.martinfjordvald.com/2011/02/nginx-primer-2-from-apache-to-nginx/)
+- [Understanding the Nginx Configuration Inheritance Model](http://blog.martinfjordvald.com/2012/08/understanding-the-nginx-configuration-inheritance-model/)
+- [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx)
+- [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/Umkus/nginx-boilerplate)
+
 ## Nginx architecture
 
 - [The Architecture of Open Source Applications (Volume 2): nginx](http://aosabook.org/en/nginx.html)
