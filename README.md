@@ -112,10 +112,3 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 
 - [Tengine Web Server ](http://tengine.taobao.org)
 - [Difference between OpenResty and Tengine](https://github.com/openresty/ngx_openresty/issues/54)
-
-## Additional Information
-
-This resource collection is maintained by Frederic Cambus
-
-- Site : http://www.cambus.net
-- Twitter: http://twitter.com/fcambus
