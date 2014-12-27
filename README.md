@@ -51,6 +51,11 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [JSONP Proxy - Get JSONP from APIs not supporting it natively](https://github.com/fcambus/jsonp-proxy)
 - [Log rotation directly within Nginx configuration file](http://www.cambus.net/log-rotation-directly-within-nginx-configuration-file/)
 
+## Nginx tips
+
+- [A/B testing using ngx_http_split_clients_module](https://twitter.com/maximkonovalov/statuses/354907254216065024)
+- [Logging $tcpinfo_rtt to measure typical RTT](https://twitter.com/maximkonovalov/statuses/352436564934148096)
+
 ## Nginx + Lua
 
 - [Nginx, Lua, and beyond](http://agentzh.org/misc/slides/nginx-lua-and-beyond.pdf)
