@@ -8,6 +8,8 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 
 - [History of Nginx](http://nginx.com/wp-content/uploads/2014/11/Infographic_History-of-Nginx_FulI_20141101.png)
 - [Understanding Nginx versioning](http://nginx.com/blog/nginx-1-6-1-7-released/)
+- [Interview with creator of NGINX Igor Sysoev](http://www.webhostingskills.com/open_source/articles/interview_with_creator_of_nginx_igor_sysoev/) ([Better traduction](https://mindend.com/index.php/interview-with-the-creator-of-nginx/))
+- [Interview with Igor Sysoev, author of Apache's competitor NGINX](http://www.freesoftwaremagazine.com/articles/interview_igor_sysoev_author_apaches_competitor_nginx)
 - [The case for Nginx in front of application servers](http://www.cambus.net/the-case-for-nginx-in-front-of-application-servers/)
 
 ## Nginx Configuration 
@@ -68,11 +70,6 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [NGINX Plus Serving Breaking News for InkaBinka: Chris Brahmer ](https://www.youtube.com/watch?v=wxUUEvRLpH8)
 - [The LAMP Just Died, Follow the Light: NGINX and PHP-FPM: Bernard Rosset](https://www.youtube.com/watch?v=WR1aZcA1UXs)
 - [Building a low-latency WAF inside NGINX using Lua: John Graham-Cumming](https://www.youtube.com/watch?v=nlt4XKhucS4)
-
-## Nginx interviews
-
-- [Interview with creator of NGINX Igor Sysoev](http://www.webhostingskills.com/open_source/articles/interview_with_creator_of_nginx_igor_sysoev/)
-- [Interview with Igor Sysoev, author of Apache's competitor NGINX](http://www.freesoftwaremagazine.com/articles/interview_igor_sysoev_author_apaches_competitor_nginx)
 
 ## Nginx and APIs
 
