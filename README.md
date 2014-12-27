@@ -24,6 +24,8 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Understanding the Nginx Configuration Inheritance Model](http://blog.martinfjordvald.com/2012/08/understanding-the-nginx-configuration-inheritance-model/)
 - [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx)
 - [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/Umkus/nginx-boilerplate)
+- [Cranking Nginx to 11](https://speakerdeck.com/helgi/cranking-nginx-to-11)
+- [Nginx and PHP, match made in heaven](https://speakerdeck.com/helgi/nginx-and-php-match-made-in-heaven)
 
 ## Nginx tutorials
 
@@ -38,6 +40,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [CORS on Nginx](http://enable-cors.org/server_nginx.html)
 - [Using NGINX As An Intelligent Proxy & Web Server](https://docs.apitools.com/blog/2014/06/10/using-nginx-as-an-intelligent-proxy-web-server.html)
 - [Serving precompressed content with Nginx and Zopfli](http://www.cambus.net/serving-precompressed-content-with-nginx-and-zopfli/)
+- [Nginx on FreeBSD](http://www.cambus.net/nginx-on-freebsd/)
 
 ## Nginx architecture
 
