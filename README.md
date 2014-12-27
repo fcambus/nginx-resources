@@ -4,6 +4,12 @@ A growing collection of resources covering Nginx, Nginx + Lua, OpenResty and Ten
 
 This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates and/or suggestions, follow me on Twitter : [@fcambus](https://twitter.com/fcambus)
 
+## Understanding Nginx
+
+- [History of Nginx](http://nginx.com/wp-content/uploads/2014/11/Infographic_History-of-Nginx_FulI_20141101.png)
+- [Understanding Nginx versioning](http://nginx.com/blog/nginx-1-6-1-7-released/)
+- [The case for Nginx in front of application servers](http://www.cambus.net/the-case-for-nginx-in-front-of-application-servers/)
+
 ## Nginx Configuration 
 
 - [Beginner's Guide](http://nginx.org/en/docs/beginners_guide.html)
