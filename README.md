@@ -7,7 +7,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 ## Nginx architecture
 
 - [The Architecture of Open Source Applications (Volume 2): nginx](http://aosabook.org/en/nginx.html)
-- [Nginx Guts - Shedding light on Nginx internals](http://www.nginxguts.com/)
+- [Nginx Guts - Shedding light on Nginx internals](http://www.nginxguts.com/category/nginx/)
 - [Nginx discovery journey](http://www.nginx-discovery.com/)
 - [Nginx Internals](http://www.slideshare.net/joshzhu/nginx-internals)
 
@@ -57,6 +57,11 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Pushing Nginx to its limit with Lua](http://blog.cloudflare.com/pushing-nginx-to-its-limit-with-lua/)
 - [Scripting Nginx with Lua](http://www.londonlua.org/scripting_nginx_with_lua/)
 - [Augmenting APIs with Nginx and Lua](http://tech.3scale.net/2013/01/09/augment-your-api-without-touching-it/)
+- [Adding OAuth Support to Nginx via Lua](http://chairnerd.seatgeek.com/oauth-support-for-nginx-with-lua/)
+- [Scripting libdrizzle with Lua inside Nginx](http://agentzh.org/misc/slides/libdrizzle-lua-nginx.pdf)
+- [Nginx and Lua](http://devblog.mixlr.com/2012/09/01/nginx-lua/)
+- [Writing an Nginx authentication module in Lua](http://www.stavros.io/posts/writing-an-nginx-authentication-module-in-lua/)
+- [Scaling TextRazor in the Cloud with Nginx and Lua](http://www.textrazor.com/blog/2013/03/scaling-textrazor-in-the-cloud-with-nginx-and-lua.html)
 
 ## OpenResty
 
