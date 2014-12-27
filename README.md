@@ -1,8 +1,8 @@
 # Nginx Resources
 
-A growing collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine. 
+A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine. 
 
-This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates and/or suggestions, follow me on Twitter : [@fcambus](https://twitter.com/fcambus)
+This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates, follow me on Twitter : [@fcambus](https://twitter.com/fcambus)
 
 ## Understanding Nginx
 
@@ -12,7 +12,14 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Interview with Igor Sysoev, author of Apache's competitor NGINX](http://www.freesoftwaremagazine.com/articles/interview_igor_sysoev_author_apaches_competitor_nginx)
 - [The case for Nginx in front of application servers](http://www.cambus.net/the-case-for-nginx-in-front-of-application-servers/)
 
-## Nginx Configuration 
+## Architecture
+
+- [The Architecture of Open Source Applications (Volume 2): nginx](http://aosabook.org/en/nginx.html)
+- [Nginx Guts - Shedding light on Nginx internals](http://www.nginxguts.com/category/nginx/)
+- [Nginx discovery journey](http://www.nginx-discovery.com/)
+- [Nginx Internals](http://www.slideshare.net/joshzhu/nginx-internals)
+
+## Configuration 
 
 - [Beginner's Guide](http://nginx.org/en/docs/beginners_guide.html)
 - [Alphabetical index of variables](http://nginx.org/en/docs/varindex.html)
@@ -27,7 +34,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Cranking Nginx to 11](https://speakerdeck.com/helgi/cranking-nginx-to-11)
 - [Nginx and PHP, match made in heaven](https://speakerdeck.com/helgi/nginx-and-php-match-made-in-heaven)
 
-## Nginx tutorials
+## Tutorials
 
 - [NGINX and NGINX Plus Admin Guide](http://nginx.com/resources/admin-guide/)
 - [agentzh's Nginx Tutorials](http://openresty.org/download/agentzh-nginx-tutorials-en.html) ([Source](https://github.com/openresty/nginx-tutorials))
@@ -42,34 +49,13 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Serving precompressed content with Nginx and Zopfli](http://www.cambus.net/serving-precompressed-content-with-nginx-and-zopfli/)
 - [Nginx on FreeBSD](http://www.cambus.net/nginx-on-freebsd/)
 
-## Nginx architecture
-
-- [The Architecture of Open Source Applications (Volume 2): nginx](http://aosabook.org/en/nginx.html)
-- [Nginx Guts - Shedding light on Nginx internals](http://www.nginxguts.com/category/nginx/)
-- [Nginx discovery journey](http://www.nginx-discovery.com/)
-- [Nginx Internals](http://www.slideshare.net/joshzhu/nginx-internals)
-
 ## Modules development
 
 - [Guide to Nginx Module Development](http://www.evanmiller.org/nginx-modules-guide.html)
 - [Advanced Topics In Nginx Module Development](http://www.evanmiller.org/nginx-modules-guide-advanced.html)
 - [Developing Nginx Modules](http://www.airpair.com/nginx/extending-nginx-tutorial)
 
-## SSL / TLS
-
-- [Optimizing NGINX TLS Time To First Byte (TTTFB)](https://www.igvita.com/2013/12/16/optimizing-nginx-tls-time-to-first-byte/)
-- [SSL session caching in Nginx](http://www.hezmatt.org/~mpalmer/blog/2011/06/28/ssl-session-caching-in-nginx.html)
-- [SSL/TLS & Perfect Forward Secrecy](http://vincent.bernat.im/en/blog/2011-ssl-perfect-forward-secrecy.html)
-- [Configuring Apache, Nginx, and OpenSSL for Forward Secrecy](http://blog.ivanristic.com/2013/08/configuring-apache-nginx-and-openssl-for-forward-secrecy.html)
-- [Getting an A+ on Qualy's SSL Labs Tester](https://sethvargo.com/getting-an-a-plus-on-qualys-ssl-labs-tester/)
-
-## Nginx Conferences and Summits
-
-- [NGINX Conference 2014](http://nginx.com/nginxconf/)
-- [NGINX Conference 2014 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXewvc6tjIGGFZ6DBKHEld3k)
-- [NGINX User Summit 2014 - Lightning talks](https://www.youtube.com/playlist?list=PLGz_X9w9raXfTnRnI6Xl0LMhAKoTVVZv8)
-
-## Nginx and APIs
+## APIs
 
 - [Telize is a JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua](http://www.telize.com)
 - [GIN JSON-API framework](http://gin.io/)
@@ -77,14 +63,14 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Using Nginx to comply with a third-party API's rate limits](http://vitobotta.com/nginx-proxy-comply-api-rate-limits/)
 - [Simple API with Nginx and PostgreSQL](http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html)
 
-## Nginx Hacks
+## Hacks
 
 - [Nginx JSON hacks](http://www.gabrielweinberg.com/blog/2011/07/nginx-json-hacks.html)
 - [Using Environment Variables In Nginx.conf](https://docs.apitools.com/blog/2014/07/02/using-environment-variables-in-nginx-conf.html)
 - [JSONP Proxy - Get JSONP from APIs not supporting it natively](https://github.com/fcambus/jsonp-proxy)
 - [Log rotation directly within Nginx configuration file](http://www.cambus.net/log-rotation-directly-within-nginx-configuration-file/)
 
-## Nginx tips
+## Tips
 
 - [A/B testing using ngx_http_split_clients_module](https://twitter.com/maximkonovalov/statuses/354907254216065024)
 - [Logging $tcpinfo_rtt to measure typical RTT](https://twitter.com/maximkonovalov/statuses/352436564934148096)
@@ -113,3 +99,9 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 
 - [Tengine Web Server ](http://tengine.taobao.org)
 - [Difference between OpenResty and Tengine](https://github.com/openresty/ngx_openresty/issues/54)
+
+## Talks
+
+- [NGINX Conference 2014](http://nginx.com/nginxconf/)
+- [NGINX Conference 2014 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXewvc6tjIGGFZ6DBKHEld3k)
+- [NGINX User Summit 2014 - Lightning talks](https://www.youtube.com/playlist?list=PLGz_X9w9raXfTnRnI6Xl0LMhAKoTVVZv8)
