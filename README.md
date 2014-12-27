@@ -34,6 +34,9 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 
 - [Optimizing NGINX TLS Time To First Byte (TTTFB)](https://www.igvita.com/2013/12/16/optimizing-nginx-tls-time-to-first-byte/)
 - [SSL session caching in Nginx](http://www.hezmatt.org/~mpalmer/blog/2011/06/28/ssl-session-caching-in-nginx.html)
+- [SSL/TLS & Perfect Forward Secrecy](http://vincent.bernat.im/en/blog/2011-ssl-perfect-forward-secrecy.html)
+- [Configuring Apache, Nginx, and OpenSSL for Forward Secrecy](http://blog.ivanristic.com/2013/08/configuring-apache-nginx-and-openssl-for-forward-secrecy.html)
+- [Getting an A+ on Qualy's SSL Labs Tester](https://sethvargo.com/getting-an-a-plus-on-qualys-ssl-labs-tester/)
 
 ## Nginx Conference 2014
 
