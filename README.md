@@ -94,6 +94,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Nginx image processing server with OpenResty and Lua](http://leafo.net/posts/creating_an_image_server.html)
 - [A small router for Openresty](https://docs.apitools.com/blog/2014/04/24/a-small-router-for-openresty.html)
 - [Building an OpenResty events server](https://github.com/cagerton/dropthat/)
+- [SysAdvent 2014 - OpenResty, Nginx and Lua](http://sysadvent.blogspot.com/2014/12/day-22-largely-unappreciated.html) ([Source](https://github.com/lusis/sysadvent-2014))
 
 ## Tengine
 
