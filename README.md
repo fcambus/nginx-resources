@@ -74,6 +74,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 
 - [A/B testing using ngx_http_split_clients_module](https://twitter.com/maximkonovalov/statuses/354907254216065024)
 - [Logging $tcpinfo_rtt to measure typical RTT](https://twitter.com/maximkonovalov/statuses/352436564934148096)
+- [Things you didn't know Nginx could do](http://www.slideshare.net/sarahnovotny/5-things-you-didnt-know-nginx-could-do)
 
 ## Nginx + Lua
 
