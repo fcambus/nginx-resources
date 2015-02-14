@@ -11,6 +11,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Interview with creator of NGINX Igor Sysoev](http://www.webhostingskills.com/open_source/articles/interview_with_creator_of_nginx_igor_sysoev/) ([Better traduction](https://mindend.com/index.php/interview-with-the-creator-of-nginx/))
 - [Interview with Igor Sysoev, author of Apache's competitor NGINX](http://www.freesoftwaremagazine.com/articles/interview_igor_sysoev_author_apaches_competitor_nginx)
 - [The case for Nginx in front of application servers](http://www.cambus.net/the-case-for-nginx-in-front-of-application-servers/)
+- [Nginx Optimization: understanding sendfile, tcp_nodelay and tcp_nopush](https://t37.net/nginx-optimization-understanding-sendfile-tcp_nodelay-and-tcp_nopush.html)
 
 ## Architecture
 
