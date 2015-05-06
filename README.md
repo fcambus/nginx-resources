@@ -63,6 +63,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Outbound API rate limits: the nginx way](http://codetunes.com/2011/07/26/outbound-api-rate-limits-the-nginx-way)
 - [Using Nginx to comply with a third-party API's rate limits](http://vitobotta.com/nginx-proxy-comply-api-rate-limits/)
 - [Simple API with Nginx and PostgreSQL](http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html)
+- [Kong - Management Layer for Microservices and APIs](http://getkong.org)
 
 ## Hacks
 
