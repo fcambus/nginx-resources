@@ -34,6 +34,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/Umkus/nginx-boilerplate)
 - [Cranking Nginx to 11](https://speakerdeck.com/helgi/cranking-nginx-to-11)
 - [Nginx and PHP, match made in heaven](https://speakerdeck.com/helgi/nginx-and-php-match-made-in-heaven)
+- [How to Configure OCSP Stapling in Apache and Nginx](https://sslmate.com/blog/post/ocsp_stapling_in_apache_and_nginx)
 
 ## Tutorials
 
