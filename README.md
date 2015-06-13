@@ -101,6 +101,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [A small router for Openresty](https://docs.apitools.com/blog/2014/04/24/a-small-router-for-openresty.html)
 - [Building an OpenResty events server](https://github.com/cagerton/dropthat/)
 - [SysAdvent 2014 - OpenResty, Nginx and Lua](http://sysadvent.blogspot.com/2014/12/day-22-largely-unappreciated.html) ([Source](https://github.com/lusis/sysadvent-2014))
+- [OpenResty (Nginx) with dynamically generated certificates](http://blog.dutchcoders.io/openresty-with-dynamic-generated-certificates/)
 
 ## Tengine
 
