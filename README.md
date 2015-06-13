@@ -19,6 +19,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Nginx Guts - Shedding light on Nginx internals](http://www.nginxguts.com/category/nginx/)
 - [Nginx discovery journey](http://www.nginx-discovery.com/)
 - [Nginx Internals](http://www.slideshare.net/joshzhu/nginx-internals)
+- [Inside NGINX: How We Designed for Performance & Scale](http://nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
 
 ## Configuration 
 
