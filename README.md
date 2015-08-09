@@ -52,6 +52,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Using NGINX As An Intelligent Proxy & Web Server](https://docs.apitools.com/blog/2014/06/10/using-nginx-as-an-intelligent-proxy-web-server.html)
 - [Serving precompressed content with Nginx and Zopfli](http://www.cambus.net/serving-precompressed-content-with-nginx-and-zopfli/)
 - [Nginx on FreeBSD](http://www.cambus.net/nginx-on-freebsd/)
+- [Using New Debugging Features to Probe NGINX Internals](https://www.nginx.com/blog/new-debugging-features-probe-nginx-internals/)
 
 ## Modules development
 
