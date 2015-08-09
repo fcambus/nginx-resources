@@ -104,6 +104,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Building an OpenResty events server](https://github.com/cagerton/dropthat/)
 - [SysAdvent 2014 - OpenResty, Nginx and Lua](http://sysadvent.blogspot.com/2014/12/day-22-largely-unappreciated.html) ([Source](https://github.com/lusis/sysadvent-2014))
 - [OpenResty (Nginx) with dynamically generated certificates](http://blog.dutchcoders.io/openresty-with-dynamic-generated-certificates/)
+- [Ceryx - A dynamic reverse proxy](https://www.sourcelair.com/blog/articles/75/ceryx-dynamic-nginx)
 
 ## Tengine
 
