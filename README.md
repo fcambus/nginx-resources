@@ -75,6 +75,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Using Environment Variables In Nginx.conf](https://docs.apitools.com/blog/2014/07/02/using-environment-variables-in-nginx-conf.html)
 - [JSONP Proxy - Get JSONP from APIs not supporting it natively](https://github.com/fcambus/jsonp-proxy)
 - [Log rotation directly within Nginx configuration file](http://www.cambus.net/log-rotation-directly-within-nginx-configuration-file/)
+- [Realtime pixel tracking with Nginx, syslog-ng, and Redis](https://benwilber.github.io/nginx/redis/syslog/pixel-tracking/2013/09/13/realtime-pixel-tracking-with-nginx-syslog-ng-and-redis.html)
 
 ## Tips
 
