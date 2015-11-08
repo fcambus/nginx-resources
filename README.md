@@ -53,6 +53,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Serving precompressed content with Nginx and Zopfli](http://www.cambus.net/serving-precompressed-content-with-nginx-and-zopfli/)
 - [Nginx on FreeBSD](http://www.cambus.net/nginx-on-freebsd/)
 - [Using New Debugging Features to Probe NGINX Internals](https://www.nginx.com/blog/new-debugging-features-probe-nginx-internals/)
+- [How to Monitor Nginx](https://www.datadoghq.com/blog/how-to-monitor-nginx/)
 
 ## Modules development
 
