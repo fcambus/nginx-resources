@@ -1,6 +1,6 @@
 # Nginx Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine. 
+A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine.
 
 This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates, follow me on Twitter : [@fcambus](https://twitter.com/fcambus)
 
@@ -22,7 +22,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Inside NGINX: How We Designed for Performance & Scale](http://nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
 - [Thread Pools in NGINX](http://nginx.com/blog/thread-pools-boost-performance-9x/)
 
-## Configuration 
+## Configuration
 
 - [Beginner's Guide](http://nginx.org/en/docs/beginners_guide.html)
 - [Alphabetical index of variables](http://nginx.org/en/docs/varindex.html)
@@ -115,6 +115,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 
 ## Talks
 
+- [NGINX Conference 2015 Vides](https://www.youtube.com/playlist?list=PLGz_X9w9raXdED9BR6GQ61A6d3fBzjpbn)
 - [NGINX Conference 2014](http://nginx.com/nginxconf/)
 - [NGINX Conference 2014 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXewvc6tjIGGFZ6DBKHEld3k)
 - [NGINX User Summit 2014 - Lightning talks](https://www.youtube.com/playlist?list=PLGz_X9w9raXfTnRnI6Xl0LMhAKoTVVZv8)
