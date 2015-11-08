@@ -1,6 +1,6 @@
 # Nginx Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine. 
+A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine.
 
 This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates, follow me on Twitter : [@fcambus](https://twitter.com/fcambus)
 
@@ -22,7 +22,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Inside NGINX: How We Designed for Performance & Scale](http://nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
 - [Thread Pools in NGINX](http://nginx.com/blog/thread-pools-boost-performance-9x/)
 
-## Configuration 
+## Configuration
 
 - [Beginner's Guide](http://nginx.org/en/docs/beginners_guide.html)
 - [Alphabetical index of variables](http://nginx.org/en/docs/varindex.html)
@@ -53,6 +53,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Serving precompressed content with Nginx and Zopfli](http://www.cambus.net/serving-precompressed-content-with-nginx-and-zopfli/)
 - [Nginx on FreeBSD](http://www.cambus.net/nginx-on-freebsd/)
 - [Using New Debugging Features to Probe NGINX Internals](https://www.nginx.com/blog/new-debugging-features-probe-nginx-internals/)
+- [How to Monitor Nginx](https://www.datadoghq.com/blog/how-to-monitor-nginx/)
 
 ## Modules development
 
