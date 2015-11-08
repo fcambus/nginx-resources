@@ -115,9 +115,9 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 
 ## Talks
 
-- [NGINX Conference 2015 Vides](https://www.youtube.com/playlist?list=PLGz_X9w9raXdED9BR6GQ61A6d3fBzjpbn)
-- [NGINX Conference 2014](http://nginx.com/nginxconf/)
+- [NGINX Conference 2015 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXdED9BR6GQ61A6d3fBzjpbn)
 - [NGINX Conference 2014 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXewvc6tjIGGFZ6DBKHEld3k)
+- [NGINX Conference 2014](http://nginx.com/nginxconf/)
 - [NGINX User Summit 2014 - Lightning talks](https://www.youtube.com/playlist?list=PLGz_X9w9raXfTnRnI6Xl0LMhAKoTVVZv8)
 
 ## License
