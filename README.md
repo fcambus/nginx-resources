@@ -27,8 +27,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Beginner's Guide](http://nginx.org/en/docs/beginners_guide.html)
 - [Alphabetical index of variables](http://nginx.org/en/docs/varindex.html)
 - [Nginx Pitfalls](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/)
-- [Nginx Secure Web Server with HTTP, HTTPS SSL and Reverse Proxy Examples](https://calomel.org/nginx.html)
-- [Useful Rewrites for Nginx ](https://blog.engineyard.com/2011/useful-rewrites-for-nginx/)
+- [Useful Rewrites for Nginx ](https://blog.engineyard.com/2011/useful-rewrites-for-nginx)
 - [Nginx Configuration Primer](http://blog.martinfjordvald.com/2010/07/nginx-primer/)
 - [Nginx Primer 2: From Apache to Nginx](http://blog.martinfjordvald.com/2011/02/nginx-primer-2-from-apache-to-nginx/)
 - [Understanding the Nginx Configuration Inheritance Model](http://blog.martinfjordvald.com/2012/08/understanding-the-nginx-configuration-inheritance-model/)
@@ -94,7 +93,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Augmenting APIs with Nginx and Lua](http://tech.3scale.net/2013/01/09/augment-your-api-without-touching-it/)
 - [Adding OAuth Support to Nginx via Lua](http://chairnerd.seatgeek.com/oauth-support-for-nginx-with-lua/)
 - [Scripting libdrizzle with Lua inside Nginx](http://agentzh.org/misc/slides/libdrizzle-lua-nginx.pdf)
-- [Nginx and Lua](http://devblog.mixlr.com/2012/09/01/nginx-lua/)
+- [Nginx and Lua](https://web.archive.org/web/20141223070856/http://devblog.mixlr.com/2012/09/01/nginx-lua/)
 - [Writing an Nginx authentication module in Lua](http://www.stavros.io/posts/writing-an-nginx-authentication-module-in-lua/)
 - [Scaling TextRazor in the Cloud with Nginx and Lua](http://www.textrazor.com/blog/2013/03/scaling-textrazor-in-the-cloud-with-nginx-and-lua.html)
 
