@@ -96,6 +96,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Nginx and Lua](https://web.archive.org/web/20141223070856/http://devblog.mixlr.com/2012/09/01/nginx-lua/)
 - [Writing an Nginx authentication module in Lua](http://www.stavros.io/posts/writing-an-nginx-authentication-module-in-lua/)
 - [Scaling TextRazor in the Cloud with Nginx and Lua](http://www.textrazor.com/blog/2013/03/scaling-textrazor-in-the-cloud-with-nginx-and-lua.html)
+- [LSSO - Lua + Nginx SSO System with an OAuth Backend](https://github.com/maiome-development/lsso)
 
 ## OpenResty
 
