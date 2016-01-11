@@ -111,6 +111,9 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [An Introduction To OpenResty](http://openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/)
 - [Developing OpenResty Framework using decoupled libraries](http://www.iresty.com/download/ebook/2015_con/aapo.pdf) ([Video](https://www.youtube.com/watch?v=VqBt5icKCI8))
 
+- [OpenResty Con 2015](http://www.iresty.com)
+
+
 ## Tengine
 
 - [Tengine Web Server ](http://tengine.taobao.org)
