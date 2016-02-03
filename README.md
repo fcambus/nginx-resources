@@ -110,6 +110,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Ceryx - A dynamic reverse proxy](https://www.sourcelair.com/blog/articles/75/ceryx-dynamic-nginx)
 - [An Introduction To OpenResty](http://openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/)
 - [Developing OpenResty Framework using decoupled libraries](http://www.iresty.com/download/ebook/2015_con/aapo.pdf) ([Video](https://www.youtube.com/watch?v=VqBt5icKCI8))
+- [Programming OpenResty (written by the OpenResty creator)](https://www.gitbook.com/book/openresty/programming-openresty/details)
 
 - [OpenResty Con 2015](http://www.iresty.com)
 
