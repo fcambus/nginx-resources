@@ -77,6 +77,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 - [Realtime pixel tracking with Nginx, syslog-ng, and Redis](https://benwilber.github.io/nginx/redis/syslog/pixel-tracking/2013/09/13/realtime-pixel-tracking-with-nginx-syslog-ng-and-redis.html)
 - [Dynamic log formats in Nginx](https://benwilber.github.io/nginx/syslog/logging/2015/08/26/dynamic-log-formats-in-nginx.html)
 - [Capture and delay unwanted requests](https://github.com/p0pr0ck5/lua-resty-tarpit)
+- [Nginx: a caching, thumbnailing, reverse proxying image server?](http://charlesleifer.com/blog/nginx-a-caching-thumbnailing-reverse-proxying-image-server-/)
 
 ## Tips
 
