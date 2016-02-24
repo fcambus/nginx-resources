@@ -61,8 +61,8 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 
 ## APIs
 
-- [Telize is a JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua](http://www.telize.com)
-- [GIN JSON-API framework](http://gin.io/)
+- [Telize - JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua](http://www.telize.com)
+- [GIN - JSON-API framework](http://gin.io/)
 - [Outbound API rate limits: the nginx way](http://codetunes.com/2011/outbound-api-rate-limits-the-nginx-way/)
 - [Using Nginx to comply with a third-party API's rate limits](http://vitobotta.com/nginx-proxy-comply-api-rate-limits/)
 - [Simple API with Nginx and PostgreSQL](http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html)
@@ -100,7 +100,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 
 ## OpenResty
 
-- [OpenResty  a fast web app server by extending nginx ](http://openresty.org/)
+- [OpenResty - Fast web app server by extending Nginx](http://openresty.org/)
 - [Lapis - A web framework for Lua or MoonScript powered by OpenResty](http://leafo.net/lapis/)
 - [Nginx image processing server with OpenResty and Lua](http://leafo.net/posts/creating_an_image_server.html)
 - [A small router for Openresty](https://docs.apitools.com/blog/2014/04/24/a-small-router-for-openresty.html)
@@ -117,7 +117,7 @@ This list is maintained by [Frederic Cambus](http://www.cambus.net). For updates
 
 ## Tengine
 
-- [Tengine Web Server ](http://tengine.taobao.org)
+- [Tengine Web Server](http://tengine.taobao.org)
 - [Difference between OpenResty and Tengine](https://github.com/openresty/ngx_openresty/issues/54)
 
 ## Talks
