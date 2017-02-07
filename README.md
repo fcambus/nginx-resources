@@ -2,7 +2,7 @@
 
 A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine.
 
-This list is maintained by [Frederic Cambus](https://www.cambus.net). For updates, follow me on Twitter : [@fcambus](https://twitter.com/fcambus)
+This list is maintained by [Frederic Cambus](https://www.cambus.net). For updates, follow me on Twitter: [@fcambus](https://twitter.com/fcambus)
 
 ## Understanding Nginx
 
@@ -62,7 +62,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## APIs
 
-- [Telize - JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua](http://www.telize.com)
+- [Telize - JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua](https://www.telize.com)
 - [GIN - JSON-API framework](http://gin.io/)
 - [Outbound API rate limits: the nginx way](https://monterail.com/blog/2011/outbound-api-rate-limits-the-nginx-way)
 - [Using Nginx to comply with a third-party API's rate limits](https://vitobotta.com/2014/01/12/using-nginx-to-comply-with-a-third-party-apis-rate-limits/)
