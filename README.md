@@ -56,6 +56,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Modules development
 
+- [Official Development Guide](http://nginx.org/en/docs/dev/development_guide.html)
 - [Guide to Nginx Module Development](http://www.evanmiller.org/nginx-modules-guide.html)
 - [Advanced Topics In Nginx Module Development](http://www.evanmiller.org/nginx-modules-guide-advanced.html)
 - [Developing Nginx Modules](https://www.airpair.com/nginx/extending-nginx-tutorial)
