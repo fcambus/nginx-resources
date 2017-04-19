@@ -53,6 +53,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Nginx on FreeBSD](https://www.cambus.net/nginx-on-freebsd/)
 - [Using New Debugging Features to Probe NGINX Internals](https://www.nginx.com/blog/new-debugging-features-probe-nginx-internals/)
 - [Performing A/B Testing with NGINX and NGINX Plus](https://www.nginx.com/blog/performing-a-b-testing-nginx-plus/)
+- [Using nginx inside a Docker container](https://hub.docker.com/_/nginx/)
 
 ## Modules development
 
