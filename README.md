@@ -125,6 +125,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Talks
 
+- [NGINX Conference 2016 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXcOsB_dT26iu0BvbSxWYG1g)
 - [NGINX Conference 2015 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXdED9BR6GQ61A6d3fBzjpbn)
 - [NGINX Conference 2014 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXewvc6tjIGGFZ6DBKHEld3k)
 - [NGINX Conference](https://www.nginx.com/nginxconf/)
