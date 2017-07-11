@@ -85,6 +85,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 - [Things you didn't know Nginx could do](http://www.slideshare.net/sarahnovotny/5-things-you-didnt-know-nginx-could-do)
 - [Finding the nginx gzip_comp_level sweet spot](https://mjanja.ch/2015/03/finding-the-nginx-gzip_comp_level-sweet-spot/)
+- [Monitoring Nginx on Kubernetes](https://sysdig.com/blog/monitor-nginx-kubernetes/)
 
 ## Nginx + Lua
 
