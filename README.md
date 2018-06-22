@@ -55,6 +55,9 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Using New Debugging Features to Probe NGINX Internals](https://www.nginx.com/blog/new-debugging-features-probe-nginx-internals/)
 - [Performing A/B Testing with NGINX and NGINX Plus](https://www.nginx.com/blog/performing-a-b-testing-nginx-plus/)
 
+## Security 
+- [Tips and hacks for application/API security with NGINX](https://github.com/wallarm/awesome-nginx-security)
+
 ## Modules development
 
 - [Official Development Guide](http://nginx.org/en/docs/dev/development_guide.html)
