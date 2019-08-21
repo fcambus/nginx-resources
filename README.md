@@ -8,7 +8,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 - [History of Nginx](https://www.nginx.com/wp-content/uploads/2014/11/Infographic_History-of-Nginx_FulI_20141101.png)
 - [Understanding Nginx versioning](https://www.nginx.com/blog/nginx-1-6-1-7-released/)
-- [Interview with the creator of Nginx](http://mindend.com/index.php/interview-with-the-creator-of-nginx/)
+- [Interview with the creator of Nginx](https://web.archive.org/web/20180614224054/http://mindend.com/interview-with-the-creator-of-nginx/)
 - [Interview with Igor Sysoev, author of Apache's competitor NGINX](http://freesoftwaremagazine.com/articles/interview_igor_sysoev_author_apaches_competitor_nginx/)
 - [The case for Nginx in front of application servers](https://www.cambus.net/the-case-for-nginx-in-front-of-application-servers/)
 - [Nginx Optimization: understanding sendfile, tcp_nodelay and tcp_nopush](https://t37.net/nginx-optimization-understanding-sendfile-tcp_nodelay-and-tcp_nopush.html)
