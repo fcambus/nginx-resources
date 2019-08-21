@@ -33,7 +33,6 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Understanding the Nginx Configuration Inheritance Model](http://blog.martinfjordvald.com/2012/08/understanding-the-nginx-configuration-inheritance-model/)
 - [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx)
 - [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/nginx-boilerplate/nginx-boilerplate)
-- [Cranking Nginx to 11](https://speakerdeck.com/helgi/cranking-nginx-to-11)
 - [How to Configure OCSP Stapling in Apache and Nginx](https://sslmate.com/blog/post/ocsp_stapling_in_apache_and_nginx)
 - [nginxconfig.io - Online nginx configuration generator](https://nginxconfig.io)
 
