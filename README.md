@@ -43,11 +43,9 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Introduction to nginx.conf scripting](http://agentzh.org/misc/slides/nginx-conf-scripting/nginx-conf-scripting.html)
 - [Load Balancing with NGINX and NGINX Plus](https://www.nginx.com/blog/load-balancing-with-nginx-plus/) ([Part 2](https://www.nginx.com/blog/load-balancing-with-nginx-plus-part2/))
 - [Optimizing Nginx for High Traffic Loads](http://blog.martinfjordvald.com/2011/04/optimizing-nginx-for-high-traffic-loads/)
-- [Nginx Load Balancing Basics](http://blog.jsdelivr.com/2013/01/nginx-load-balancing-basics.html)
 - [NGINX as a WebSockets Proxy](https://www.nginx.com/blog/websocket-nginx/)
 - [HTTP Keepalive Connections and Web Performance ](https://www.nginx.com/blog/http-keepalives-and-web-performance/)
 - [CORS on Nginx](https://enable-cors.org/server_nginx.html)
-- [Using NGINX As An Intelligent Proxy & Web Server](https://docs.apitools.com/blog/2014/06/10/using-nginx-as-an-intelligent-proxy-web-server.html)
 - [Serving precompressed content with Nginx and Zopfli](https://www.cambus.net/serving-precompressed-content-with-nginx-and-zopfli/)
 - [Nginx on FreeBSD](https://www.cambus.net/nginx-on-freebsd/)
 - [Using New Debugging Features to Probe NGINX Internals](https://www.nginx.com/blog/new-debugging-features-probe-nginx-internals/)
@@ -88,7 +86,6 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 - [Nginx, Lua, and beyond](http://agentzh.org/misc/slides/nginx-lua-and-beyond.pdf)
 - [Pushing Nginx to its limit with Lua](https://blog.cloudflare.com/pushing-nginx-to-its-limit-with-lua/)
-- [Scripting Nginx with Lua](http://www.londonlua.org/scripting_nginx_with_lua/)
 - [Augmenting APIs with Nginx and Lua](http://tech.3scale.net/2013/01/09/augment-your-api-without-touching-it/)
 - [Adding OAuth Support to Nginx via Lua](http://chairnerd.seatgeek.com/oauth-support-for-nginx-with-lua/)
 - [Scripting libdrizzle with Lua inside Nginx](http://agentzh.org/misc/slides/libdrizzle-lua-nginx.pdf)
@@ -103,18 +100,13 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [OpenResty - Fast web app server by extending Nginx](https://openresty.org/en/)
 - [Lapis - A web framework for Lua or MoonScript powered by OpenResty](http://leafo.net/lapis/)
 - [Nginx image processing server with OpenResty and Lua](http://leafo.net/posts/creating_an_image_server.html)
-- [A small router for Openresty](https://docs.apitools.com/blog/2014/04/24/a-small-router-for-openresty.html)
 - [Building an OpenResty events server](https://github.com/cagerton/dropthat/)
 - [SysAdvent 2014 - OpenResty, Nginx and Lua](http://sysadvent.blogspot.com/2014/12/day-22-largely-unappreciated.html) ([Source](https://github.com/lusis/sysadvent-2014))
 - [OpenResty (Nginx) with dynamically generated certificates](http://blog.dutchcoders.io/openresty-with-dynamic-generated-certificates/)
 - [Ceryx - A dynamic reverse proxy](https://www.sourcelair.com/blog/articles/75/ceryx-dynamic-nginx)
 - [An Introduction To OpenResty](http://openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/)
-- [Developing OpenResty Framework using decoupled libraries](http://www.iresty.com/download/ebook/2015_con/aapo.pdf) ([Video](https://www.youtube.com/watch?v=VqBt5icKCI8))
 - [Programming OpenResty (written by the OpenResty creator)](https://www.gitbook.com/book/openresty/programming-openresty/details)
 - [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards](https://github.com/alexazhou/VeryNginx)
-
-- [OpenResty Con 2015](http://www.iresty.com)
-
 
 ## Tengine
 
