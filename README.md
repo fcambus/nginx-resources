@@ -15,7 +15,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Architecture
 
-- [The Architecture of Open Source Applications (Volume 2): nginx](http://aosabook.org/en/nginx.html)
+- [The Architecture of Open Source Applications (Volume 2): nginx](https://aosabook.org/en/nginx.html)
 - [Nginx Guts - Shedding light on Nginx internals](http://www.nginxguts.com/category/nginx/)
 - [Nginx discovery journey](https://www.nginx-discovery.com/)
 - [Nginx Internals](https://www.slideshare.net/joshzhu/nginx-internals)
@@ -24,8 +24,8 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Configuration
 
-- [Beginner's Guide](http://nginx.org/en/docs/beginners_guide.html)
-- [Alphabetical index of variables](http://nginx.org/en/docs/varindex.html)
+- [Beginner's Guide](https://nginx.org/en/docs/beginners_guide.html)
+- [Alphabetical index of variables](https://nginx.org/en/docs/varindex.html)
 - [Nginx Pitfalls](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/)
 - [Useful Rewrites for Nginx](https://blog.engineyard.com/useful-rewrites-for-nginx)
 - [Nginx Configuration Primer](https://blog.martinfjordvald.com/nginx-primer/)
@@ -53,7 +53,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Modules development
 
-- [Official Development Guide](http://nginx.org/en/docs/dev/development_guide.html)
+- [Official Development Guide](https://nginx.org/en/docs/dev/development_guide.html)
 - [Guide to Nginx Module Development](https://www.evanmiller.org/nginx-modules-guide.html)
 - [Advanced Topics In Nginx Module Development](https://www.evanmiller.org/nginx-modules-guide-advanced.html)
 - [Developing Nginx Modules](https://www.airpair.com/nginx/extending-nginx-tutorial)
