@@ -94,6 +94,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Scaling TextRazor in the Cloud with Nginx and Lua](https://www.textrazor.com/blog/2013/03/scaling-textrazor-in-the-cloud-with-nginx-and-lua.html)
 - [LSSO - Lua + Nginx SSO System with an OAuth Backend](https://github.com/pirogoeth/lsso)
 - [Measuring Nginx Cache Performance using Lua and Redis](https://charlesleifer.com/blog/measuring-nginx-cache-performance-using-lua-and-redis/)
+- [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.](https://github.com/fabiocicerchia/nginx-lua)
 
 ## OpenResty
 
