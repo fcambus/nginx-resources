@@ -35,6 +35,8 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/nginx-boilerplate/nginx-boilerplate)
 - [How to Configure OCSP Stapling in Apache and Nginx](https://sslmate.com/blog/post/ocsp_stapling_in_apache_and_nginx)
 - [NGINX Config - Online nginx configuration generator](https://www.digitalocean.com/community/tools/nginx)
+- [Nice nginx features for developers](https://alex.dzyoba.com/blog/nginx-features-for-developers/)
+- [Nice nginx features for operators](https://alex.dzyoba.com/blog/nginx-features-for-operators/)
 
 ## Tutorials
 
@@ -81,6 +83,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 - [Things you didn't know Nginx could do](https://www.slideshare.net/sarahnovotny/5-things-you-didnt-know-nginx-could-do)
 - [Finding the nginx gzip_comp_level sweet spot](https://mjanja.ch/2015/03/finding-the-nginx-gzip_comp_level-sweet-spot/)
+- [nginx mirroring tips and tricks](https://alex.dzyoba.com/blog/nginx-mirror/)
 
 ## Nginx + Lua
 
