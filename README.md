@@ -41,6 +41,10 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy)
 - [Nginx common configuration - Universal config and snippets](https://github.com/tldr-devops/nginx-common-configuration)
 
+## Security
+
+- [BunkerWeb - Next-generation, open-source Web Application Firewall (WAF) based on Nginx](https://www.bunkerweb.io)
+
 ## Tutorials
 
 - [NGINX and NGINX Plus Admin Guide](https://docs.nginx.com/nginx/admin-guide/)
