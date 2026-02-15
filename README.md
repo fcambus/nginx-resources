@@ -38,7 +38,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Nice nginx features for developers](https://alex.dzyoba.com/blog/nginx-features-for-developers/)
 - [Nice nginx features for operators](https://alex.dzyoba.com/blog/nginx-features-for-operators/)
 - [Avoiding the Top 10 NGINX Configuration Mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
-- [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy)
+- [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy) - Maintained forks: [gixy-ng](https://github.com/dvershinin/gixy), [gixy-next](https://github.com/MegaManSec/Gixy-Next)
 - [Nginx common configuration - Universal config and snippets](https://github.com/tldr-devops/nginx-common-configuration)
 
 ## Security
