@@ -60,6 +60,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Using New Debugging Features to Probe NGINX Internals](https://www.nginx.com/blog/new-debugging-features-probe-nginx-internals/)
 - [Performing A/B Testing with NGINX and NGINX Plus](https://www.nginx.com/blog/performing-a-b-testing-nginx-plus/)
 - [Improving NGINX Performance with Kernel TLS and SSL_sendfile()](https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/)
+- [The State of Nginx Modules on Debian and Ubuntu in 2026](https://www.blendbyte.com/blog/the-state-of-nginx-modules-on-debian-and-ubuntu-in-2026)
 
 ## Modules development
 
