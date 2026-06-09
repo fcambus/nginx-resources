@@ -19,8 +19,8 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Nginx Guts - Shedding light on Nginx internals](http://www.nginxguts.com/category/nginx/)
 - [Nginx discovery journey](https://www.nginx-discovery.com/)
 - [Nginx Internals](https://www.slideshare.net/slideshow/nginx-internals/2028238)
-- [Inside NGINX: How We Designed for Performance & Scale](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
-- [Thread Pools in NGINX](https://www.nginx.com/blog/thread-pools-boost-performance-9x/)
+- [Inside NGINX: How We Designed for Performance & Scale](https://blog.nginx.org/blog/inside-nginx-how-we-designed-for-performance-scale)
+- [Thread Pools in NGINX](https://www.f5.com/company/blog/nginx/thread-pools-boost-performance-9x)
 
 ## Configuration
 
@@ -37,7 +37,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [NGINX Config - Online nginx configuration generator](https://www.digitalocean.com/community/tools/nginx)
 - [Nice nginx features for developers](https://alex.dzyoba.com/blog/nginx-features-for-developers/)
 - [Nice nginx features for operators](https://alex.dzyoba.com/blog/nginx-features-for-operators/)
-- [Avoiding the Top 10 NGINX Configuration Mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
+- [Avoiding the Top 10 NGINX Configuration Mistakes](https://www.f5.com/company/blog/nginx/avoiding-top-10-nginx-configuration-mistakes)
 - [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy) - Maintained forks: [gixy-ng](https://github.com/dvershinin/gixy), [gixy-next](https://github.com/MegaManSec/Gixy-Next)
 - [Nginx common configuration - Universal config and snippets](https://github.com/tldr-devops/nginx-common-configuration)
 
@@ -50,16 +50,16 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [NGINX and NGINX Plus Admin Guide](https://docs.nginx.com/nginx/admin-guide/)
 - [agentzh's Nginx Tutorials](https://openresty.org/download/agentzh-nginx-tutorials-en.html) ([Source](https://github.com/openresty/nginx-tutorials))
 - [Introduction to nginx.conf scripting](https://agentzh.org/misc/slides/nginx-conf-scripting/nginx-conf-scripting.html)
-- [Load Balancing with NGINX and NGINX Plus](https://www.nginx.com/blog/load-balancing-with-nginx-plus/) ([Part 2](https://www.nginx.com/blog/load-balancing-with-nginx-plus-part-2/))
+- [Load Balancing with NGINX and NGINX Plus](https://www.f5.com/company/blog/nginx/load-balancing-with-nginx-plus) ([Part 2])https://www.f5.com/company/blog/nginx/load-balancing-with-nginx-plus-part-2))
 - [Optimizing Nginx for High Traffic Loads](https://blog.martinfjordvald.com/optimizing-nginx-for-high-traffic-loads/)
-- [NGINX as a WebSockets Proxy](https://www.nginx.com/blog/websocket-nginx/)
-- [HTTP Keepalive Connections and Web Performance ](https://www.nginx.com/blog/http-keepalives-and-web-performance/)
+- [NGINX as a WebSockets Proxy](https://www.f5.com/company/blog/nginx/websocket-nginx)
+- [HTTP Keepalive Connections and Web Performance ](https://www.f5.com/company/blog/nginx/http-keepalives-and-web-performance)
 - [CORS on Nginx](https://enable-cors.org/server_nginx.html)
 - [Serving precompressed content with Nginx and Zopfli](https://www.cambus.net/serving-precompressed-content-with-nginx-and-zopfli/)
 - [Nginx on FreeBSD](https://www.cambus.net/nginx-on-freebsd/)
 - [Using New Debugging Features to Probe NGINX Internals](https://www.nginx.com/blog/new-debugging-features-probe-nginx-internals/)
-- [Performing A/B Testing with NGINX and NGINX Plus](https://www.nginx.com/blog/performing-a-b-testing-nginx-plus/)
-- [Improving NGINX Performance with Kernel TLS and SSL_sendfile()](https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/)
+- [Performing A/B Testing with NGINX and NGINX Plus](https://www.f5.com/company/blog/nginx/performing-a-b-testing-nginx-plus)
+- [Improving NGINX Performance with Kernel TLS and SSL_sendfile()](https://www.f5.com/company/blog/nginx/improving-nginx-performance-with-kernel-tls)
 
 ## Modules development
 
@@ -109,8 +109,8 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Collection of njs use cases](https://github.com/f5devcentral/nginx-njs-usecases)
 - [JavaScript embedded on NGINX - Getting started with njs](https://www.bluedoa.com/javascript-embedded-on-nginx-getting-started-with-njs/)
 - [Create Nginx extensions in JavaScript](https://dev.to/metal3d/create-nginx-extensions-in-javascript-3310)
-- [Make your nginx config even more modular and reusable with njs 0.7.7](https://www.nginx.com/blog/make-nginx-config-even-more-modular-reusable-njs-0-7-7/)
-- [Diagnostic logging with the NGINX JavaScript module](https://www.nginx.com/blog/diagnostic-logging-nginx-javascript-module/)
+- [Make your nginx config even more modular and reusable with njs 0.7.7](https://www.f5.com/company/blog/nginx/make-nginx-config-even-more-modular-reusable-njs-0-7-7)
+- [Diagnostic logging with the NGINX JavaScript module](https://www.f5.com/company/blog/nginx/diagnostic-logging-nginx-javascript-module)
 - [How to log request headers with NGINX and njs](https://wildwolf.name/how-to-log-request-headers-with-nginx-and-njs/)
 - [Using NGINX as an Object Storage Gateway via njs](https://blog.nginx.org/blog/using-nginx-as-object-storage-gateway/)
 - [Easy HTTPS with NGINX and ACME via njs](https://steinkamp.us/posts/2023-08-10_easy-https-with-nginx)
