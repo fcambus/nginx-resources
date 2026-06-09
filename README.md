@@ -71,8 +71,6 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 - [Telize - JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua](https://www.telize.com)
 - [GIN - JSON-API framework](https://gin.io/)
-- [Outbound API rate limits: the nginx way](https://www.monterail.com/blog/2011/outbound-api-rate-limits-the-nginx-way)
-- [Using Nginx to comply with a third-party API's rate limits](https://vitobotta.com/2014/01/12/nginx-rate-limits/)
 - [Kong - Management Layer for Microservices and APIs](https://konghq.com/kong/)
 
 ## Hacks
