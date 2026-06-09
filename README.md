@@ -7,11 +7,11 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 ## Understanding Nginx
 
 - [History of Nginx](https://www.nginx.com/wp-content/uploads/2014/11/Infographic_History-of-Nginx_FulI_20141101.png)
-- [Understanding Nginx versioning](https://www.nginx.com/blog/nginx-1-6-1-7-released/)
+- [Understanding Nginx versioning](https://www.f5.com/company/blog/nginx/nginx-1-18-1-19-released)
 - [Interview with the creator of Nginx](https://web.archive.org/web/20180614224054/http://mindend.com/interview-with-the-creator-of-nginx/)
 - [Interview with Igor Sysoev, author of Apache's competitor NGINX](https://freesoftwaremagazine.com/articles/interview_igor_sysoev_author_apaches_competitor_nginx/)
 - [The case for Nginx in front of application servers](https://www.cambus.net/the-case-for-nginx-in-front-of-application-servers/)
-- [Nginx Optimization: understanding sendfile, tcp_nodelay and tcp_nopush](https://thoughts.t37.net/nginx-optimization-understanding-sendfile-tcp-nodelay-and-tcp-nopush-c55cdd276765)
+- [Nginx Optimization: understanding sendfile, tcp_nodelay and tcp_nopush](https://fv.gs/nginx-optimization-understanding-sendfile-tcp-nodelay-and-tcp-nopush-c55cdd276765)
 
 ## Architecture
 
@@ -27,7 +27,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Beginner's Guide](https://nginx.org/en/docs/beginners_guide.html)
 - [Alphabetical index of variables](https://nginx.org/en/docs/varindex.html)
 - [Nginx Pitfalls](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/)
-- [Useful Rewrites for Nginx](https://blog.engineyard.com/useful-rewrites-for-nginx)
+- [Useful Rewrites for Nginx](https://www.engineyard.com/blog/useful-rewrites-for-nginx/)
 - [Nginx Configuration Primer](https://blog.martinfjordvald.com/nginx-primer/)
 - [Nginx Primer 2: From Apache to Nginx](https://blog.martinfjordvald.com/nginx-primer-2-from-apache-to-nginx/)
 - [Understanding the Nginx Configuration Inheritance Model](https://blog.martinfjordvald.com/understanding-the-nginx-configuration-inheritance-model/)
