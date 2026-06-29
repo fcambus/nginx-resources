@@ -56,7 +56,6 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [CORS on Nginx](https://enable-cors.org/server_nginx.html)
 - [Serving precompressed content with Nginx and Zopfli](https://www.cambus.net/serving-precompressed-content-with-nginx-and-zopfli/)
 - [Nginx on FreeBSD](https://www.cambus.net/nginx-on-freebsd/)
-- [Using New Debugging Features to Probe NGINX Internals](https://www.nginx.com/blog/new-debugging-features-probe-nginx-internals/)
 - [Performing A/B Testing with NGINX and NGINX Plus](https://www.f5.com/company/blog/nginx/performing-a-b-testing-nginx-plus)
 - [Improving NGINX Performance with Kernel TLS and SSL_sendfile()](https://www.f5.com/company/blog/nginx/improving-nginx-performance-with-kernel-tls)
 
