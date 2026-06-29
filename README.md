@@ -6,7 +6,6 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Understanding Nginx
 
-- [History of Nginx](https://www.nginx.com/wp-content/uploads/2014/11/Infographic_History-of-Nginx_FulI_20141101.png)
 - [Understanding Nginx versioning](https://www.f5.com/company/blog/nginx/nginx-1-18-1-19-released)
 - [Interview with the creator of Nginx](https://web.archive.org/web/20180614224054/http://mindend.com/interview-with-the-creator-of-nginx/)
 - [Interview with Igor Sysoev, author of Apache's competitor NGINX](https://freesoftwaremagazine.com/articles/interview_igor_sysoev_author_apaches_competitor_nginx/)
