@@ -1,8 +1,8 @@
-# Nginx Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Nginx Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine.
 
-This list is maintained by [Frederic Cambus](https://www.cambus.net). For updates, follow me on Twitter: [@fcambus](https://twitter.com/fcambus)
+This list is maintained by [Frederic Cambus](https://www.cambus.net). For updates, follow me on X: [@fcambus](https://x.com/fcambus)
 
 ## Understanding Nginx
 
@@ -15,7 +15,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 ## Architecture
 
 - [The Architecture of Open Source Applications (Volume 2): nginx](https://aosabook.org/en/nginx.html)
-- [Nginx Guts - Shedding light on Nginx internals](http://www.nginxguts.com/category/nginx/)
+- [Nginx Guts - Shedding light on Nginx internals](https://web.archive.org/web/20220202145919/http://www.nginxguts.com/category/nginx/)
 - [Nginx discovery journey](https://www.nginx-discovery.com/)
 - [Nginx Internals](https://www.slideshare.net/slideshow/nginx-internals/2028238)
 - [Inside NGINX: How We Designed for Performance & Scale](https://blog.nginx.org/blog/inside-nginx-how-we-designed-for-performance-scale)
@@ -49,17 +49,17 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [NGINX and NGINX Plus Admin Guide](https://docs.nginx.com/nginx/admin-guide/)
 - [agentzh's Nginx Tutorials](https://openresty.org/download/agentzh-nginx-tutorials-en.html) ([Source](https://github.com/openresty/nginx-tutorials))
 - [Introduction to nginx.conf scripting](https://agentzh.org/misc/slides/nginx-conf-scripting/nginx-conf-scripting.html)
-- [Load Balancing with NGINX and NGINX Plus](https://www.f5.com/company/blog/nginx/load-balancing-with-nginx-plus) ([Part 2])https://www.f5.com/company/blog/nginx/load-balancing-with-nginx-plus-part-2))
+- [Load Balancing with NGINX and NGINX Plus](https://www.f5.com/company/blog/nginx/load-balancing-with-nginx-plus) ([Part 2](https://www.f5.com/company/blog/nginx/load-balancing-with-nginx-plus-part-2))
 - [Optimizing Nginx for High Traffic Loads](https://blog.martinfjordvald.com/optimizing-nginx-for-high-traffic-loads/)
 - [NGINX as a WebSockets Proxy](https://www.f5.com/company/blog/nginx/websocket-nginx)
-- [HTTP Keepalive Connections and Web Performance ](https://www.f5.com/company/blog/nginx/http-keepalives-and-web-performance)
+- [HTTP Keepalive Connections and Web Performance](https://www.f5.com/company/blog/nginx/http-keepalives-and-web-performance)
 - [CORS on Nginx](https://enable-cors.org/server_nginx.html)
 - [Serving precompressed content with Nginx and Zopfli](https://www.cambus.net/serving-precompressed-content-with-nginx-and-zopfli/)
 - [Nginx on FreeBSD](https://www.cambus.net/nginx-on-freebsd/)
 - [Performing A/B Testing with NGINX and NGINX Plus](https://www.f5.com/company/blog/nginx/performing-a-b-testing-nginx-plus)
 - [Improving NGINX Performance with Kernel TLS and SSL_sendfile()](https://www.f5.com/company/blog/nginx/improving-nginx-performance-with-kernel-tls)
 
-## Modules development
+## Module development
 
 - [Official Development Guide](https://nginx.org/en/docs/dev/development_guide.html)
 - [Guide to Nginx Module Development](https://www.evanmiller.org/nginx-modules-guide.html)
@@ -101,6 +101,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.](https://github.com/fabiocicerchia/nginx-lua)
 
 ## Nginx + njs
+
 - [njs scripting language reference and examples](https://nginx.org/en/docs/njs/)
 - [Collection of njs use cases](https://github.com/f5devcentral/nginx-njs-usecases)
 - [JavaScript embedded on NGINX - Getting started with njs](https://www.bluedoa.com/javascript-embedded-on-nginx-getting-started-with-njs/)
@@ -108,7 +109,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Make your nginx config even more modular and reusable with njs 0.7.7](https://www.f5.com/company/blog/nginx/make-nginx-config-even-more-modular-reusable-njs-0-7-7)
 - [Diagnostic logging with the NGINX JavaScript module](https://www.f5.com/company/blog/nginx/diagnostic-logging-nginx-javascript-module)
 - [How to log request headers with NGINX and njs](https://wildwolf.name/how-to-log-request-headers-with-nginx-and-njs/)
-- [Using NGINX as an Object Storage Gateway via njs](https://blog.nginx.org/blog/using-nginx-as-object-storage-gateway/)
+- [Using NGINX as an Object Storage Gateway via njs](https://blog.nginx.org/blog/using-nginx-as-object-storage-gateway)
 - [Easy HTTPS with NGINX and ACME via njs](https://steinkamp.us/posts/2023-08-10_easy-https-with-nginx)
 
 ## OpenResty
@@ -118,7 +119,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Nginx image processing server with OpenResty and Lua](https://leafo.net/posts/creating_an_image_server.html)
 - [Building an OpenResty events server](https://github.com/cagerton/dropthat/)
 - [SysAdvent 2014 - OpenResty, Nginx and Lua](https://sysadvent.blogspot.com/2014/12/day-22-largely-unappreciated.html) ([Source](https://github.com/lusis/sysadvent-2014))
-- [Ceryx - A dynamic reverse proxy](https://www.sourcelair.com/blog/articles/75/ceryx-dynamic-nginx)
+- [Ceryx - A dynamic reverse proxy](https://www.sourcelair.com/blog/articles/75/ceryx-dynamic-nginx/)
 - [An Introduction To OpenResty](https://www.openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/)
 - [Programming OpenResty (written by the OpenResty creator)](https://openresty.gitbooks.io/programming-openresty/content/)
 - [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards](https://github.com/alexazhou/VeryNginx)
