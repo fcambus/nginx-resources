@@ -25,7 +25,6 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 - [Beginner's Guide](https://nginx.org/en/docs/beginners_guide.html)
 - [Alphabetical index of variables](https://nginx.org/en/docs/varindex.html)
-- [Nginx Pitfalls](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/)
 - [Useful Rewrites for Nginx](https://www.engineyard.com/blog/useful-rewrites-for-nginx/)
 - [Nginx Configuration Primer](https://blog.martinfjordvald.com/nginx-primer/)
 - [Nginx Primer 2: From Apache to Nginx](https://blog.martinfjordvald.com/nginx-primer-2-from-apache-to-nginx/)
